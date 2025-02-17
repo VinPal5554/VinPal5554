@@ -5,6 +5,12 @@ My name is Vinay and I am a Graduate with a 1st Class Honours in Computer Scienc
 ### Languages
 [![My Skills](https://skillicons.dev/icons?i=java,r,py,cs,html,css,js)](https://skillicons.dev)
 
+### Frameworks/Databases
+[![My Skills](https://skillicons.dev/icons?i=spring,react,redux,sqlite,mysql,postgres)](https://skillicons.dev)
+
+### Other
+[![My Skills](https://skillicons.dev/icons?i=visualstudio,unity,windows,azure,discord,eclipse,git,gmail,powershell,postman,pycharm)](https://skillicons.dev)
+
 <!--
 **VinPal5554/VinPal5554** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
