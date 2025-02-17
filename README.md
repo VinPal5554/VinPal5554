@@ -12,7 +12,7 @@ My name is Vinay and I am a Graduate with a 1st Class Honours in Computer Scienc
 [![My Skills](https://skillicons.dev/icons?i=visualstudio,unity,windows,azure,discord,eclipse,git,gmail,powershell,postman,pycharm)](https://skillicons.dev)
 
 ### Stats:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VinPal5554&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VinPal5554&theme=dark)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VinPal5554)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
