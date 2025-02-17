@@ -11,7 +11,7 @@ My name is Vinay and I am a Graduate with a 1st Class Honours in Computer Scienc
 ### Other
 [![My Skills](https://skillicons.dev/icons?i=visualstudio,unity,windows,azure,discord,eclipse,git,gmail,powershell,postman,pycharm)](https://skillicons.dev)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VinPal5554)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VinPal5554&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **VinPal5554/VinPal5554** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
