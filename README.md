@@ -2,7 +2,7 @@
 
 My name is Vinay and I am a Graduate with a 1st Class Honours in Computer Science. I am passionate about programming and love to learn about new technologies. 
 
-I am currently looking for work in the technology space! Feel free to contact me on [Linkedin](https://www.linkedin.com/in/vinay-kirk-pal/)!
+I am currently looking for work in the technology space! Feel free to contact me on [Linkedin](https://www.linkedin.com/in/vinay-kirk-pal/)
 
 ## Languages:
 [![My Skills](https://skillicons.dev/icons?i=java,r,py,cs,html,css,js)](https://skillicons.dev)
