@@ -1,6 +1,9 @@
-### yo
+### Hello!
 
+My name is Vinay and I am a Graduate with a 1st Class Honours in Computer Science. I am passionate about programming and love to learn about new technologies. 
 
+### Languages
+[![My Skills](https://skillicons.dev/icons?i=java,r,py,cs,html,css,js)](https://skillicons.dev)
 
 <!--
 **VinPal5554/VinPal5554** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
