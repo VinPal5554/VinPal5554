@@ -2,6 +2,8 @@
 
 My name is Vinay and I am a Graduate with a 1st Class Honours in Computer Science. I am passionate about programming and love to learn about new technologies. 
 
+Currently I am working on creating a game using the Unity Engine. I have a Devlog where you can follow my progress [here!](https://infernalarena.wordpress.com/)
+
 I am currently looking for work in the technology space! Feel free to contact me on [Linkedin](https://www.linkedin.com/in/vinay-kirk-pal/) or via my email vinaypal5555@gmail.com
 
 ## Languages:
