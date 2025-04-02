@@ -15,10 +15,6 @@ I am also looking for work in the technology space! Feel free to contact me on [
 ## Other:
 [![My Skills](https://skillicons.dev/icons?i=visualstudio,unity,windows,azure,discord,eclipse,git,gmail,powershell,postman,pycharm)](https://skillicons.dev)
 
-## Stats:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VinPal5554&theme=dark)](https://github.com/anuraghazra/github-readme-stats) <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VinPal5554&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--
 **VinPal5554/VinPal5554** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
