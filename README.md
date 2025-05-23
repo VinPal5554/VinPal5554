@@ -1,6 +1,6 @@
 # Hello!
 
-:wave: My name is Vinay and I am a Graduate with a 1st Class Honours in Computer Science. I am passionate about programming and love to learn about new technologies. 
+:wave: My name is Vinay and I am a Graduate with a 1st Class Honours in Computer Science.
 
 :video_game: Currently I am working on creating a game using the Unity Engine. I have a Devlog where you can follow my progress [here!](https://infernalarena.wordpress.com/)
 
